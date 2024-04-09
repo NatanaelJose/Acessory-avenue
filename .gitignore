@@ -41,3 +41,4 @@ env/
 *.pyc/
 __pycache__/
 public
+sql_app.db
